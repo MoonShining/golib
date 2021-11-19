@@ -2,6 +2,7 @@ package timingwheel
 
 import (
 	"errors"
+	"net"
 	"sync"
 	"time"
 )
